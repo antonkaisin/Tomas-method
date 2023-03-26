@@ -1,7 +1,7 @@
 ## Tridiagonal matrix algorithm (Thomas algorithm)
 The initial system of linear equations has the form:
 
-$$ c_{i}x_{i-1} + d_{i}x{i} + e_{i}x{i+1} = f_{i} $$
+$$ c_{i}x_{i-1} + d_{i}x_{i} + e_{i}x_{i+1} = f_{i} $$
 
 where 
 
